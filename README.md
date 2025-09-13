@@ -1,1 +1,1 @@
-Compilation of Aerospace projects from my undergraduate studies
+Compilation of Aerospace projects from my undergraduate studies.
